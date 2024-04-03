@@ -15,6 +15,7 @@ For AWS folks,  https://www.cloudskillsboost.google/paths/71 would be a good sta
 
 
 Below are the links to the Study Material I referenced:
+
 **Section 0: Introduction to GCP**
 
 https://grumpygrace.dev/posts/gcp-flowcharts/
