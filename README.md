@@ -4,12 +4,13 @@ After working for 3 years in Azure I decided to attempt to learn GCP six months 
 Here is what I learnt:
 
 _**1. Break each tool into the following**_
-- a. How do you install
-- b. How do you configure CI/CD
-- c. What kind of code resides in these tools
-- d. Monitoring
+- How do you install
+- How do you configure CI/CD
+- What kind of code resides in these tools
+- Monitoring
+  
 _**2. Use the Google CloudSkill Boost and Google Code Labs extensively**_
-**_3. Refrence Blogs when you find Google Documentation tideous
+**_3. Refrence Blogs when you find Google Documentation tideous_
 **4. Be aware of various CI/CD stages and tools used like Jenkins, Spinnaker etc_****
 
 If you are Azure aware checkout out https://www.cloudskillsboost.google/paths/72
