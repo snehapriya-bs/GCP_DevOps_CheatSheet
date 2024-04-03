@@ -16,9 +16,10 @@ _**2. Use the Google CloudSkill Boost and Google Code Labs extensively**_
 **4. Be aware of various CI/CD stages and tools used like Jenkins, Spinnaker etc_****
 
 **If your are coming from Azure or AWS, see below**
--If you are Azure aware checkout out https://www.cloudskillsboost.google/paths/72
 
--For AWS folks,  https://www.cloudskillsboost.google/paths/71 would be a good starting point.
+If you are Azure aware checkout out https://www.cloudskillsboost.google/paths/72
+
+For AWS folks,  https://www.cloudskillsboost.google/paths/71 would be a good starting point.
 
 
 Below are the links to the Study Material I referenced:
