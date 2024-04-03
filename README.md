@@ -11,10 +11,12 @@ _**2. Use the Google CloudSkill Boost and Google Code Labs extensively**_
 **4. Be aware of various CI/CD stages and tools used like Jenkins, Spinnaker etc_****
 
 If you are Azure aware checkout out https://www.cloudskillsboost.google/paths/72
-For AWS folks,  https://pages.github.com/](https://www.cloudskillsboost.google/paths/71 would be a good starting point.
+For AWS folks,  https://www.cloudskillsboost.google/paths/71 would be a good starting point.
+
 
 Below are the links to the Study Material I referenced:
 **Section 0: Introduction to GCP**
+
 https://grumpygrace.dev/posts/gcp-flowcharts/
 A Beginner's Guide to Google Cloud Platform (GCP) (howtogeek.com)
  
