@@ -10,7 +10,8 @@ _**1. Break each tool into the following**_
 - Monitoring
   
 _**2. Use the Google CloudSkill Boost and Google Code Labs extensively**_
-**_3. Refrence Blogs when you find Google Documentation tideous_
+
+**3. Refrence Blogs when you find Google Documentation tideous_
 **4. Be aware of various CI/CD stages and tools used like Jenkins, Spinnaker etc_****
 
 If you are Azure aware checkout out https://www.cloudskillsboost.google/paths/72
