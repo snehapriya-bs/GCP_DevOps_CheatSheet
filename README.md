@@ -21,7 +21,7 @@ For AWS folks,  [Google Cloud Skills Boost](https://www.cloudskillsboost.googl
 
 
 
-Below are some useful links that would help you on this journey.
+Below are some useful links that would help you on this journey!
 
 **Section 0: Introduction to GCP**
 
