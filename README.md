@@ -14,25 +14,25 @@ If you are Azure aware checkout out https://www.cloudskillsboost.google/paths/72
 For AWS folks,  https://pages.github.com/](https://www.cloudskillsboost.google/paths/71 would be a good starting point.
 
 Below are the links to the Study Material I referenced:
-Section 0: Introduction to GCP
+**Section 0: Introduction to GCP**
 https://grumpygrace.dev/posts/gcp-flowcharts/
 A Beginner's Guide to Google Cloud Platform (GCP) (howtogeek.com)
  
 
-Section 1: Essential GCP Qwiklabs Quests
-https://googlecloud.qwiklabs.com/focuses/52828?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=30354866
-https://googlecloud.qwiklabs.com/focuses/10445?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=30354860
-https://www.cloudskillsboost.google/course_sessions/11163749/labs/408315
-https://www.cloudskillsboost.google/course_sessions/11163754/labs/408062
-https://www.cloudskillsboost.google/course_sessions/11163754/labs/408063
-https://www.cloudskillsboost.google/course_sessions/11226340/labs/423766
-https://www.cloudskillsboost.google/course_templates/732
-https://www.cloudskillsboost.google/focuses/552?catalog_rank=%7b%22rank%22:1,%22num_filters%22:0,%22has_search%22:true%7d&parent=catalog&search_id=10482409
-https://www.cloudskillsboost.google/course_templates/716/labs/463375
-https://www.cloudskillsboost.google/course_templates/716/labs/463376
-https://www.cloudskillsboost.google/course_templates/648/labs/463330  -
-https://www.cloudskillsboost.google/course_templates/637/labs/463448
-Debugging Apps on Google Kubernetes Engine | Google Cloud Skills Boost
+**Section 1: Essential GCP Qwiklabs Quests**
+-https://googlecloud.qwiklabs.com/focuses/52828?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=30354866
+-https://googlecloud.qwiklabs.com/focuses/10445?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=30354860
+-https://www.cloudskillsboost.google/course_sessions/11163749/labs/408315
+-https://www.cloudskillsboost.google/course_sessions/11163754/labs/408062
+-https://www.cloudskillsboost.google/course_sessions/11163754/labs/408063
+-https://www.cloudskillsboost.google/course_sessions/11226340/labs/423766
+-https://www.cloudskillsboost.google/course_templates/732
+-https://www.cloudskillsboost.google/focuses/552?catalog_rank=%7b%22rank%22:1,%22num_filters%22:0,%22has_search%22:true%7d&parent=catalog&search_id=10482409
+-https://www.cloudskillsboost.google/course_templates/716/labs/463375
+-https://www.cloudskillsboost.google/course_templates/716/labs/463376
+-https://www.cloudskillsboost.google/course_templates/648/labs/463330  -
+-https://www.cloudskillsboost.google/course_templates/637/labs/463448
+-https://www.cloudskillsboost.google/focuses/13065?parent=catalog
  
 
 
